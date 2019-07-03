@@ -14,6 +14,7 @@
 		681E103F22C619FD004C979F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 681E103D22C619FD004C979F /* LaunchScreen.storyboard */; };
 		681E104A22C619FD004C979F /* SearchTTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681E104922C619FD004C979F /* SearchTTTests.swift */; };
 		681E105522C619FD004C979F /* SearchTTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681E105422C619FD004C979F /* SearchTTUITests.swift */; };
+		681E106322C61C1C004C979F /* SearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 681E106222C61C1C004C979F /* SearchTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		681E105022C619FD004C979F /* SearchTTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SearchTTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		681E105422C619FD004C979F /* SearchTTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTTUITests.swift; sourceTree = "<group>"; };
 		681E105622C619FD004C979F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		681E106222C61C1C004C979F /* SearchTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				681E103422C619FC004C979F /* AppDelegate.swift */,
 				681E103622C619FC004C979F /* ViewController.swift */,
 				681E103822C619FC004C979F /* Main.storyboard */,
+				681E106222C61C1C004C979F /* SearchTableViewController.swift */,
 				681E103B22C619FD004C979F /* Assets.xcassets */,
 				681E103D22C619FD004C979F /* LaunchScreen.storyboard */,
 				681E104022C619FD004C979F /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				681E103722C619FC004C979F /* ViewController.swift in Sources */,
+				681E106322C61C1C004C979F /* SearchTableViewController.swift in Sources */,
 				681E103522C619FC004C979F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
